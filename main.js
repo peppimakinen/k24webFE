@@ -1,5 +1,3 @@
-import './style.css'
-
 import './style.css';
 
 const jokeContainer = document.querySelector('.show_joke');
