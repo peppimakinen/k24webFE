@@ -2,4 +2,4 @@
 #### web-sovelluskehitys kurssin frontend osio
 Peppi Mäkinen
 
-Viikon 4 tehtävät löytyvät commit viestillä Viikko 4 - Tehtävä1
+Viikon 4 koodit löytyvät commit viestillä Viikko 4 - Tehtävä1
